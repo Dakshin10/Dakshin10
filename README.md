@@ -49,8 +49,10 @@ const dakshin = {
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/> 
   <img width="48" height="48" src="https://img.icons8.com/offices/30/express-js.png" alt="Express.js"/> 
 <!--   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React"/>  -->
-  <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="Bootstrap"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB"/> 
-  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/> 
+  <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="Bootstrap"/> 
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/> 
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB"/> 
+<!--   <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/>  -->
 <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
 </p>
