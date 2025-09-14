@@ -103,22 +103,9 @@ I'm always excited to collaborate on innovative projects, discuss emerging techn
 
 
 <div align="center">
-  
-  **"Building the future, one commit at a time"** 🚀 
-  
-</div>
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dakshin10&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Dakshin10?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
 </div>
 
----
-
-
-<div align="center">
-  
-  ### ✨ Thanks for visiting! ✨
-  **Keep coding, keep creating!** 💖
-</div>
 
 ---
