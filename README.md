@@ -1,10 +1,5 @@
 ## Hi there 👋 It's me Dakshin
 
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=🖥️+Web+📱+App+Developer;🔍+Solving+Real-Life+Tech+Challenges;⚡+Creative+Technologist;🔧+Idea+to+Impact+Maker" alt="Typing SVG" />
-</div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
@@ -85,17 +80,6 @@ const dakshin = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dakshin10&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </div>
-
----
-
-## 🚀 Current Endeavors
-
-- 🔭 **Building:** Cross-platform applications with Flutter 
-- 🌱 **Learning:** full-stack development patterns 
-- 👯 **Collaborating:** On open-source projects that create meaningful impact
-- 💬 **Discussing:** Tech trends, problem-solving strategies, and innovation
-- 🎯 **Goal:** Contributing to 1+ open source projects this year!
-
 
 ---
 
