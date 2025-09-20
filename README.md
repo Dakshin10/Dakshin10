@@ -65,7 +65,7 @@ const dakshin = {
  </p>
  
 ---
-
+<!--
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -94,7 +94,7 @@ const dakshin = {
 </div>
 
 ---
-
+ -->
 
 
 ### 📫 Let's Connect
