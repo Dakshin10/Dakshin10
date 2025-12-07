@@ -42,6 +42,7 @@ const dakshin = {
   <img width="50" height="50" src="https://img.icons8.com/fluency/50/css3.png" alt="CSS3"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/> 
+  <img width="50" height="50" src="https://img.icons8.com/color/48/haskell.png" alt="Haskell"/>
 <!--   <img width="48" height="48" src="https://img.icons8.com/offices/30/express-js.png" alt="Express.js"/>  -->
 <!--   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="React"/>  -->
   <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="Bootstrap"/> 
