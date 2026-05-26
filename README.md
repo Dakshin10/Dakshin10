@@ -70,7 +70,7 @@ const dakshin: Developer = {
 ---
 
 ### ⚙️ Backend
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" /></p>
 
 ---
 
@@ -129,8 +129,8 @@ const dakshin: Developer = {
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dakshin10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0a0000&title_color=FFD700&icon_color=CC2200&text_color=FFB3B3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshin10&layout=compact&langs_count=8&theme=radical&border_radius=10&hide_border=true&bg_color=0a0000&title_color=FFD700&text_color=FFB3B3"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dakshin10&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0a0000&title_color=FFD700&icon_color=CC2200&text_color=FFB3B3"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dakshin10&layout=compact&langs_count=8&theme=radical&border_radius=10&hide_border=true&bg_color=0a0000&title_color=FFD700&text_color=FFB3B3"/>
 </div>
 
 <div align="center">
