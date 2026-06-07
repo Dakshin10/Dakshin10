@@ -34,12 +34,10 @@
 const dakshin: Developer = {
   name      : "Dakshin Raj",
   education : "B.Tech CSE @ Amrita School of Computing",
-  year      : "2nd Year",
-  location  : "Chennai, India 🇮🇳",
+  year      : "3rd Year",
+  location  : "Coimbatore, India 🇮🇳",
 
-  focus     : ["Full-Stack Architecture", "AI Agent Systems", "Real-Time Apps"],
-  strengths : ["SQL + DSA (placement-ready 💼)", "Scalable Backends", "Product Thinking"],
-  learning  : ["System Design", "LLM Orchestration", "Cloud Infra"],
+  focus     : ["Backend", "Agent AI", "Flutter Apps"],
   edge      : "Building AI-powered, real-world systems — not just CRUD apps",
 
   motto     : "Code with intention. Build with impact.",
