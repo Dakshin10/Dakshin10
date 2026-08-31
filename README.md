@@ -19,7 +19,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshin-raj/)
 [![Gmail](https://img.shields.io/badge/Gmail-CC2200?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshinrajponraju@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%230a0000.svg?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/Dakshin10)
+
 
 </div>
 
