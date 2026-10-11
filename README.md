@@ -30,14 +30,5 @@
 
 <img src="./assets/connect.svg?v=2" width="100%" alt="Let's build what's next. Connect on LinkedIn, send an email, or browse my GitHub using the links below." />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dakshin-raj/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:dakshinrajponraju@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Dakshin10?tab=repositories">All repositories</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dakshin10&label=profile%20views&color=ff6a1f&style=flat-square" alt="Profile views" />
-</p>
 
 <p align="center"><sub>Code with intention. Build with impact.</sub></p>
