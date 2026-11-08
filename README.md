@@ -11,12 +11,12 @@
 
 | Project | What it does | Focus |
 | :--- | :--- | :--- |
-| [**Polyglot Warehouse Agent**](https://github.com/Dakshin10/polyglot-warehouse-agent) | Multi-agent analytics over D1, AlloyDB and MySQL, unified into a governed BigQuery lakehouse | Data + Agents |
-| [**Vazhikaatti AI**](https://github.com/Dakshin10/Vazhikaatti_AI) | Autonomous multi-agent travel intelligence with parallel research agents and RAG memory | LangGraph + RAG |
-| [**RoadSOS**](https://github.com/Dakshin10/roadsaftey_harrington_iitm) | AI accident detection with real-time dispatch, helper network and command center | Flutter + Real-time |
-| [**HRMS MCP**](https://github.com/Dakshin10/hrms-mcp) | MCP server for natural-language HR insights: Text-to-SQL and KPI analytics on Cloudflare D1 | MCP + Text-to-SQL |
-| [**MedHive AI**](https://github.com/Dakshin10/medhive-ai) | Multi-agent healthcare copilot for symptoms, lab reports and medication checks | Agents + Voice AI |
-| [**NutriCrew**](https://github.com/Dakshin10/NutriCrew) | Food-image nutrition coach built on Groq Vision and CrewAI agents | Flutter + Vision |
+| [**Polyglot Warehouse Agent**](https://github.com/Dakshin10/polyglot-warehouse-agent) | Multi-agent analytics over D1, AlloyDB and MySQL, unified into a governed BigQuery lakehouse | Data Engineering + Agents |
+| [**LevelUp.ai**](https://github.com/Dakshin10/LevelUp-ai) | AI-powered career navigation platform with personalized NSQF roadmaps, skill verification, job matching and blockchain-verified certificates | LangGraph + Multi-Agent AI |
+| [**Pitch Coach**](https://github.com/Dakshin10/pitch-coach-ai) | Multimodal AI speech and presentation coach with vocal analytics, slide analysis, rehearsal tracking and simulated Q&A | Voice AI + DSP |
+| [**Stemly**](https://github.com/Dakshin10/Stemly) | AI-powered STEM learning platform that transforms scanned problems into interactive simulations, study notes and smart quizzes | Flutter + Generative AI |
+| [**DataVault**](https://github.com/Dakshin10/datacenter_embedded_systems) | Embedded networked storage server with multi-user authentication, Wi-Fi connectivity and MicroSD-based file management | Embedded Systems + STM32 |
+| [**Spendify**](https://github.com/Dakshin10/Spendify) | Privacy-first expense tracker with automatic SMS ingestion, AI transaction categorization and financial insights | Flutter + AI + FinTech |
 
 ### Activity
 
